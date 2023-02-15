@@ -1,0 +1,5 @@
+.DS_Store
+.jest-cache
+.pnpm-debug.log
+/node_modules
+*~
